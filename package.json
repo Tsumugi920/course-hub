@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.22.3"},"description":"校园课程评价与学习资料平台","main":"server/index.js","name":"course-hub","scripts":{"start":"node server/index.js"},"version":"1.0.0"}
